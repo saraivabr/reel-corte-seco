@@ -1,0 +1,324 @@
+{
+ "r1": {
+  "titulo": "quando a IA liga",
+  "ranges": [
+   [
+    1.6,
+    8.4
+   ],
+   [
+    8.9,
+    18.9
+   ],
+   [
+    25.5,
+    32.2
+   ],
+   [
+    38.4,
+    43.5
+   ],
+   [
+    49.6,
+    56.47
+   ],
+   [
+    62.2,
+    69.7
+   ],
+   [
+    93.4,
+    98.0
+   ],
+   [
+    112.3,
+    119.3
+   ],
+   [
+    162.1,
+    169.6
+   ],
+   [
+    170.3,
+    176.2
+   ]
+  ],
+  "spec": {
+   "0": "2|3|1/1/1d",
+   "1": "3|3/3",
+   "2": "1/2g/2",
+   "3": "3|3|1|2/1g",
+   "4": "3|3",
+   "5": "3|2|3",
+   "6": "1/1d",
+   "7": "2/1g/2",
+   "8": "2|2|2|3|2/1d",
+   "9": "3|4|4",
+   "10": "3|1/1g",
+   "11": "2|3|3",
+   "12": "3/2/1d",
+   "13": "2|3/1g",
+   "14": "3|2|2|2/2g",
+   "15": "3",
+   "16": "3",
+   "17": "2/1d",
+   "18": "2|3|2",
+   "19": "3|2/1g/2",
+   "20": "2|3|2",
+   "21": "2|2|1/1g",
+   "22": "3/3/1d",
+   "23": "3|2",
+   "24": "3|1/2g",
+   "25": "2|2|4|2",
+   "26": "3|3|4",
+   "27": "2/3/1g|2/3/1d"
+  },
+  "aberracao": [
+   "verdade.",
+   1
+  ],
+  "cta": {
+   "palavra": "LIGAÇÃO",
+   "promessa": "que eu te mando como essa IA funciona",
+   "perfil": "@saraiva.ai",
+   "voz": "cta_voz.wav",
+   "dur": 6.5,
+   "palavra_em": 0.55,
+   "siga_em": 4.15
+  },
+  "flutuantes": [
+   {
+    "na": [
+     "mas",
+     1
+    ],
+    "pagina": "teletime",
+    "dominio": "teletime.com.br"
+   },
+   {
+    "na": [
+     "hoje,",
+     1
+    ],
+    "pagina": "pew",
+    "dominio": "pewresearch.org"
+   }
+  ]
+ },
+ "r2": {
+  "titulo": "a voz diz mais que o texto",
+  "ranges": [
+   [
+    90.2,
+    92.95
+   ],
+   [
+    102.9,
+    104.82
+   ],
+   [
+    107.2,
+    111.7
+   ],
+   [
+    119.9,
+    129.2
+   ],
+   [
+    129.9,
+    138.55
+   ],
+   [
+    139.2,
+    142.5
+   ],
+   [
+    149.5,
+    161.1
+   ],
+   [
+    176.9,
+    181.2
+   ]
+  ],
+  "enfase": [
+   "digitando.:d",
+   "natural:g",
+   "tom.:g",
+   "filtra,:g",
+   "textão.:d",
+   "falar#2:g",
+   "real,:d",
+   "voz#1:g",
+   "insegurança.:d",
+   "desconforto.:g",
+   "urgência.:d",
+   "resistência.:d",
+   "raciocínio:d"
+  ],
+  "aberracao": [
+   "real,",
+   1
+  ],
+  "cta": {
+   "palavra": "LIGAÇÃO",
+   "promessa": "que eu te mando como essa IA funciona",
+   "perfil": "@saraiva.ai",
+   "voz": "cta_voz.wav",
+   "dur": 6.5,
+   "palavra_em": 0.55,
+   "siga_em": 4.15
+  },
+  "flutuantes": [
+   {
+    "na": [
+     "falar",
+     1
+    ],
+    "pagina": "stanford",
+    "dominio": "news.stanford.edu",
+    "dur": 2.4
+   },
+   {
+    "na": [
+     "pausa",
+     2
+    ],
+    "pagina": "kraus",
+    "dominio": "eurekalert.org · American Psychological Association"
+   }
+  ],
+  "videos": [
+   {
+    "na": [
+     "ritmo,",
+     1
+    ],
+    "atraso": -0.45,
+    "dur": 3.68,
+    "src": "onda.mp4"
+   },
+   {
+    "na": [
+     "quando",
+     1
+    ],
+    "dur": 1.4,
+    "src": "br_digita.mp4",
+    "credito": "WhatsApp · YouTube"
+   },
+   {
+    "na": [
+     "quando",
+     2
+    ],
+    "atraso": -0.25,
+    "dur": 2.9,
+    "src": "br_voz.mp4",
+    "credito": "WhatsApp · YouTube"
+   }
+  ]
+ },
+ "r3": {
+  "titulo": "formulário x diagnóstico",
+  "ranges": [
+   [
+    185.6,
+    189.0
+   ],
+   [
+    189.7,
+    193.15
+   ],
+   [
+    193.6,
+    197.95
+   ],
+   [
+    198.5,
+    200.85
+   ],
+   [
+    211.85,
+    215.6
+   ],
+   [
+    216.2,
+    221.45
+   ],
+   [
+    231.9,
+    232.8
+   ],
+   [
+    233.4,
+    235.0
+   ],
+   [
+    235.3,
+    235.9
+   ],
+   [
+    236.5,
+    237.95
+   ],
+   [
+    238.9,
+    242.8
+   ],
+   [
+    246.6,
+    250.95
+   ]
+  ],
+  "enfase": [
+   "onboarding#1:d",
+   "whatsapp,:g",
+   "suficiente,:g",
+   "nuances.:d",
+   "ligou,:d",
+   "telemarketing.:d",
+   "certas.:g",
+   "formulário.#1:g",
+   "diagnóstico,#1:d",
+   "dado,:g",
+   "contexto#2:d",
+   "problema?:d"
+  ],
+  "aberracao": [
+   "diagnóstico,",
+   1
+  ],
+  "spec": {
+   "4": "3/1d|3|2|1/1d",
+   "8": "3|4"
+  },
+  "cta": {
+   "palavra": "LIGAÇÃO",
+   "promessa": "que eu te mando como essa IA funciona",
+   "perfil": "@saraiva.ai",
+   "voz": "cta_voz.wav",
+   "dur": 6.5,
+   "palavra_em": 0.55,
+   "siga_em": 4.15
+  },
+  "flutuantes": [
+   {
+    "na": [
+     "começou",
+     1
+    ],
+    "pagina": "opinionbox",
+    "dominio": "blog.opinionbox.com"
+   },
+   {
+    "na": [
+     "formulário",
+     2
+    ],
+    "pagina": "xiao",
+    "dominio": "arxiv.org/abs/1905.10700"
+   }
+  ]
+ }
+}
